@@ -190,6 +190,13 @@ p.large{
 	letter-spacing: 0.08em;
 }
 
+.portfolio_notice{
+	color: crimson;
+	background-color: #ffffff;
+	text-align: center;
+	margin-bottom: 80px;
+}
+
 /** -------- スマホ -------- **/
 @media screen and (max-width: 768px){
 	h2{
